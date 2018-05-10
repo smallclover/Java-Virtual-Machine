@@ -5,7 +5,7 @@ Java虚拟机资源汇总
 **2018-05-10**
 
 ## 注意
-1. 资料的排列的顺序是字母序
+1. 资料的排列的顺序不分先后。
 2. 资料的所有权归原作者所有，这里是汇总。
 3. 知识水平的限制，导致资料的介绍或者范围有一定的局限性，欢迎指出。
 
@@ -85,9 +85,41 @@ Java虚拟机资源汇总
 
 + 《自己动手写Java虚拟机》
 
-## toy_jvm
+## 实践
+
+### jvm.go
+
+> 作者：[zxh0](https://github.com/zxh0)
+>
+> 语言：go
+>
+> 注：jvm.go的编写者是《自己动手写Java虚拟机》的作者
+
+github：
+
++ [jvm.go](https://github.com/zxh0/jvm.go)
+
+### yvm
+
+> 作者：[Cthulhu](http://blog.csdn.net/racaljk)
+>
+> 语言：C++
+>
+
+github：
+
++ [yvm](https://github.com/racaljk/yvm)
+
+wiki：
+
++ [wiki](https://github.com/racaljk/yvm/wiki)
+
+### toy_jvm
 
 > 作者：[kevinlynx](http://codemacro.com)
+>
+> 语言：Java
+>
 
 github&配套文章：
 
@@ -102,8 +134,11 @@ github：
 + [实现JVM中的JIT](http://codemacro.com/2017/03/09/toy-jit/)
 
 
-## write your own JVM
+### write your own JVM
 > 作者：[zachaxy](https://zachaxy.github.io/)
+>
+> 语言：Java
+>
 
 github&配套文章：
 
@@ -130,5 +165,7 @@ github：
   - [手写JVM系列(15)-字符串的实现](https://zachaxy.github.io/2018/01/16/%E6%89%8B%E5%86%99JVM%E7%B3%BB%E5%88%97-15-%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AE%9E%E7%8E%B0/) 
   - [手写JVM系列(16)反射机制简介](https://zachaxy.github.io/2018/01/18/%E6%89%8B%E5%86%99JVM%E7%B3%BB%E5%88%97-16-%E5%8F%8D%E5%B0%84%E6%9C%BA%E5%88%B6%E7%AE%80%E4%BB%8B/)
   - [手写JVM系列(17)本地方法的调用过程](https://zachaxy.github.io/2018/01/18/%E6%89%8B%E5%86%99JVM%E7%B3%BB%E5%88%97-17-%E6%9C%AC%E5%9C%B0%E6%96%B9%E6%B3%95%E7%9A%84%E8%B0%83%E7%94%A8%E8%BF%87%E7%A8%8B/)          
-  - [手写JVM系列(18)异常处理机制](https://zachaxy.github.io/2018/01/20/%E6%89%8B%E5%86%99JVM%E7%B3%BB%E5%88%97-18-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6/)          
+  - [手写JVM系列(18)异常处理机制](https://zachaxy.github.io/2018/01/20/%E6%89%8B%E5%86%99JVM%E7%B3%BB%E5%88%97-18-%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6/)  
+  
+
 ## 欢迎补充
