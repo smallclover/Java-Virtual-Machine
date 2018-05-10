@@ -20,6 +20,16 @@ Java虚拟机资源汇总
 
 + [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/index.html)
 
+### Java 虚拟机规范中文版
+
+> 资料类型：书籍
+>
+> 作者：周志明 等
+>
+
++ 《Java虚拟机规范（Java SE 7版）》
++ 《Java虚拟机规范（Java SE 8版）》
+
 ### Java虚拟机知识宝库
  
 > 资料类型：ITeye博客
