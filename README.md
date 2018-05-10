@@ -14,8 +14,9 @@ Java虚拟机资源汇总
 ### Java 虚拟机规范英文版（官方版）
 
 > 资料类型：.html和.PDF
-
+>
 > 版本：Second Edition~ Java SE 10 Edition
+>
 
 + [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/index.html)
 
@@ -95,9 +96,7 @@ Java虚拟机资源汇总
 >
 > 注：jvm.go的编写者是《自己动手写Java虚拟机》的作者
 
-github：
-
-+ [jvm.go](https://github.com/zxh0/jvm.go)
++  github：[jvm.go](https://github.com/zxh0/jvm.go)
 
 ### yvm
 
@@ -106,13 +105,8 @@ github：
 > 语言：C++
 >
 
-github：
-
-+ [yvm](https://github.com/racaljk/yvm)
-
-wiki：
-
-+ [wiki](https://github.com/racaljk/yvm/wiki)
++ github：[yvm](https://github.com/racaljk/yvm)
++ wiki：[wiki](https://github.com/racaljk/yvm/wiki)
 
 ### toy_jvm
 
@@ -120,8 +114,6 @@ wiki：
 >
 > 语言：Java
 >
-
-github&配套文章：
 
 github：
 
@@ -133,6 +125,20 @@ github：
 + [写一个玩具Java虚拟机](http://codemacro.com/2017/02/25/toy-jvm/)
 + [实现JVM中的JIT](http://codemacro.com/2017/03/09/toy-jit/)
 
+### jjvm
+> 作者：[caoym](https://www.jianshu.com/u/0f957286095b)
+>
+> 语言：Java
+>
+
++ github：[jjvm](https://github.com/caoym/jjvm)
+
+文章：
+
++ [用Java实现JVM（一）：刚好够运行 HelloWorld](https://www.jianshu.com/p/4d81465c2fb8)
++ [用Java实现JVM（二）：支持接口、类和对象](https://www.jianshu.com/p/d057e4aa5fcc)
+
+
 
 ### write your own JVM
 > 作者：[zachaxy](https://zachaxy.github.io/)
@@ -140,11 +146,7 @@ github：
 > 语言：Java
 >
 
-github&配套文章：
-
-github：
-
-+ [JVM](https://github.com/zachaxy/JVM)
++ github：[JVM](https://github.com/zachaxy/JVM)
 
 文章系列:
 
