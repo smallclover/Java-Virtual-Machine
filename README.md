@@ -3,15 +3,18 @@ Java虚拟机资源汇总
 
 ## Java 虚拟机规范
 
-Java 虚拟机规范英文版（官方版），版本从Second Edition~ Java SE 10 Edition
-资料有两种格式.html和.PDF
+### Java 虚拟机规范英文版（官方版）
+> 资料类型：.html和.PDF
+
+> 版本：Second Edition~ Java SE 10 Edition
+
 + [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/index.html)
 
 ## Java 虚拟机知识体系
 
 ### Java虚拟机原理图解专栏
 
-> 资源类型：CSDN博客
+> 资料类型：CSDN博客
 >
 > 内容：介绍了Java虚拟机类的加载，解析
 >
