@@ -9,7 +9,7 @@ Java虚拟机资源汇总
 2. 资料的所有权归原作者所有，这里是汇总。
 3. 知识水平的限制，导致资料的介绍或者范围有一定的局限性，欢迎指出。
 
-## Java 虚拟机规范
+## 1. Java 虚拟机规范
 
 ### Java 虚拟机规范英文版（官方版）
 
@@ -30,7 +30,7 @@ Java虚拟机资源汇总
 + 《Java虚拟机规范（Java SE 7版）》
 + 《Java虚拟机规范（Java SE 8版）》
 
-## Java虚拟机知识宝库
+## 2. Java虚拟机知识宝库
  
 ### RednaxelaFX的博客 
 
@@ -55,7 +55,7 @@ Java虚拟机资源汇总
 + 《深入理解Java虚拟机:JVM高级特性与最佳实践》
 
 
-## Class文件的解析与类的加载
+## 3. Class文件的解析与类的加载
 
 ### Java虚拟机原理图解
 
@@ -79,7 +79,7 @@ Java虚拟机资源汇总
     - [4.JVM机器指令集](http://blog.csdn.net/luanlouis/article/details/50412126)
     - [5. JVM类加载器机制与类加载过程](http://blog.csdn.net/luanlouis/article/details/50529868)
 
-## 垃圾收集（Garbage Collector，GC）
+## 4. 垃圾收集（Garbage Collector，GC）
 
 ### 垃圾回收的算法与实现
 
@@ -94,7 +94,7 @@ Java虚拟机资源汇总
 + 《垃圾回收的算法与实现》
 
 
-## 魔法师们的作品
+## 5. 魔法师们的作品
 
 ### 自己动手写Java虚拟机
 
@@ -106,7 +106,7 @@ Java虚拟机资源汇总
 
 + 《自己动手写Java虚拟机》
 
-### jvm.go
+### 使用go语言编写的虚拟机
 
 > 作者：[zxh0](https://github.com/zxh0)
 >
@@ -116,7 +116,7 @@ Java虚拟机资源汇总
 
 +  github：[jvm.go](https://github.com/zxh0/jvm.go)
 
-### yvm
+### 使用C++编写的虚拟机
 
 > 作者：[Cthulhu](http://blog.csdn.net/racaljk)
 >
@@ -126,7 +126,7 @@ Java虚拟机资源汇总
 + github：[yvm](https://github.com/racaljk/yvm)
 + wiki：[wiki](https://github.com/racaljk/yvm/wiki)
 
-### toy_jvm
+### 使用java编写的虚拟机
 
 > 作者：[kevinlynx](http://codemacro.com)
 >
@@ -143,7 +143,7 @@ github：
 + [写一个玩具Java虚拟机](http://codemacro.com/2017/02/25/toy-jvm/)
 + [实现JVM中的JIT](http://codemacro.com/2017/03/09/toy-jit/)
 
-### jjvm
+### 使用Java编写的虚拟机
 > 作者：[caoym](https://www.jianshu.com/u/0f957286095b)
 >
 > 语言：Java
@@ -158,7 +158,7 @@ github：
 
 
 
-### write your own JVM
+### 使用Java编写的虚拟机
 > 作者：[zachaxy](https://zachaxy.github.io/)
 >
 > 语言：Java
