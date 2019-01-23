@@ -1,24 +1,31 @@
 # Catalog
 
-+ 1 What is the Java virtual machine
++ 1 What is the Java Virtual Machine
 
-+ 2 Structure of The Java virtual machine
-  + 2.1 Method area
++ 2 Structure of The Java Virtual Machine
+  + 2.1 Method Area
   + 2.2 Heap
-  + 2.3 Thread stack
-  + 2.4 Meta data
-  + 2.5 Native stack
-+ 3 Java virtual machine memory model
-  + 3.1 Young gen
-  + 3.2 Old gen
-  + 3.3 Meta gen
-+ 4 Structure of the class
+  + 2.3 Thread Stack
+  + 2.4 Meta Data
+  + 2.5 Native Stack
++ 3 Java Virtual Machine Memory Model
+  + 3.1 Young Gen
+  + 3.2 Old Gen
+  + 3.3 Meta Gen
 
-+ 5 Class resolving
++ 4 Garbage Collection
 
-+ 6 Class loading
-  + 6.1 Type of Class loader
++ 5 Structure of the class
 
-+ 7 Class initializing
++ 6 Class resolving
 
-+ 8 Java virtual machine specification
++ 7 Class loading
+  + 7.1 Type of Class loader
+
++ 8 Class initializing
+
++ 9 Java Virtual Machine Specification
+
++ 10 Article Series
+
++ 11 Programing
