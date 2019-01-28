@@ -84,7 +84,29 @@ Java虚拟机资源汇总
   + [4. JVM机器指令集](http://blog.csdn.net/luanlouis/article/details/50412126)
   + [5. JVM类加载器机制与类加载过程](http://blog.csdn.net/luanlouis/article/details/50529868)
 
-### 10.3 RednaxelaFX的博客
+### 10.3 Java虚拟机
+
+> 作者：[五月的仓颉](https://www.cnblogs.com/xrq730/category/731395.html)
+>
+
++ [Java虚拟机1：什么是Java](https://www.cnblogs.com/xrq730/p/4826691.html)
++ [Java虚拟机2：Java内存区域及对象](https://www.cnblogs.com/xrq730/p/4827590.html)
++ [Java虚拟机3：常用JVM命令参数](https://www.cnblogs.com/xrq730/p/4830692.html)
++ [Java虚拟机4：内存溢出](https://www.cnblogs.com/xrq730/p/4833713.html)
++ [Java虚拟机5：Java垃圾回收（GC）机制详解](https://www.cnblogs.com/xrq730/p/4836700.html)
++ [Java虚拟机6：内存溢出和内存泄露、并行和并发、Minor GC和Full GC、Client模式和Server模式的区别](https://www.cnblogs.com/xrq730/p/4839245.html)
++ [Java虚拟机7：内存分配原则](https://www.cnblogs.com/xrq730/p/4841177.html)
++ [Java虚拟机8：虚拟机性能监控与故障处理工具](https://www.cnblogs.com/xrq730/p/4842483.html)
++ [Java虚拟机9：Java类加载机制](https://www.cnblogs.com/xrq730/p/4844915.html)
++ [Java虚拟机10：类加载器](https://www.cnblogs.com/xrq730/p/4845144.html)
++ [Java虚拟机11：运行期优化](https://www.cnblogs.com/xrq730/p/4857820.html)
++ [Java虚拟机12：Java内存模型](https://www.cnblogs.com/xrq730/p/4859107.html)
++ [Java虚拟机13：互斥同步、锁优化及synchronized和volatile](https://www.cnblogs.com/xrq730/p/4978876.html)
++ [Java虚拟机14：Java对象大小、对象内存布局及锁状态变化](https://www.cnblogs.com/xrq730/p/6928133.html)
++ [Java虚拟机15：再谈四种引用状态](https://www.cnblogs.com/xrq730/p/7082471.html)
++ [Java虚拟机16：Metaspace](https://www.cnblogs.com/xrq730/p/8688203.html)
+
+### 10.4 RednaxelaFX的博客
 
 > 作者：[RednaxelaFX](http://rednaxelafx.iteye.com/)
 >
@@ -185,3 +207,4 @@ jvm.go的编写者是《自己动手写Java虚拟机》的作者，参照书籍�
 
 + 重新整理格式(2019-01-22)
 + 目录整理，内容小范围修改(2019-01-23)
++ 添加[五月的仓颉]系列文章(2019-01-28)
