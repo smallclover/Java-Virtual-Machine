@@ -4,7 +4,7 @@ Java虚拟机资源汇总
 
 ## 最后更新时间
 
-2019-02-01
+2019-03-12
 
 ## 注意
 
@@ -123,6 +123,22 @@ R大曾经在Oracle虚拟机组工作过，对虚拟机的理解无论是理论�
 
 + [自己关于VM的帖的目录](http://rednaxelafx.iteye.com/blog/362738)
 
+### 10.5 JVM实用参数系列
+
+> 原作者：[Sven Ruppert](https://blog.codecentric.de/en/)
+
+> 译者：[并发编程网](http://ifeve.com)
+
++ [JVM实用参数系列](http://ifeve.com/useful-jvm-flags/)
+  + [JVM实用参数（一）JVM类型以及编译器模式](http://ifeve.com/useful-jvm-flags-part-1-jvm-types-and-compiler-modes-2/)
+  + [JVM实用参数（二）参数分类和即时（JIT）编译器诊断](http://ifeve.com/useful-jvm-flags-part-2-flag/)
+  + [JVM实用参数（三）打印所有XX参数及值](http://ifeve.com/useful-jvm-flags-part-3-printing-all-xx-flags-and-their-values/)
+  + [JVM实用参数（四）内存调优](http://ifeve.com/useful-jvm-flags-part-4-heap-tuning/)
+  + [JVM实用参数（五）新生代垃圾回收](http://ifeve.com/useful-jvm-flags-part-5-young-generation-garbage-collection/)
+  + [JVM实用参数（六）吞吐量收集器](http://ifeve.com/useful-jvm-flags-part-6-throughput-collector/)
+  + [JVM实用参数（七）CMS收集器](http://ifeve.com/useful-jvm-flags-part-7-cms-collector/)
+  + [JVM实用参数（八）GC日志](http://ifeve.com/useful-jvm-flags-part-8-gc-logging/)
+
 ## 11 编程练习
 
 ### 11.1 使用Go语言编写的虚拟机
@@ -222,3 +238,4 @@ jvm.go的编写者是《自己动手写Java虚拟机》的作者，参照书籍�
 + 目录整理，内容小范围修改(2019-01-23)
 + 添加[五月的仓颉]系列文章(2019-01-28)
 + 添加新的内容，JVM有关的问题(2019-02-01)
++ 添加[并发编程网]系列文章(2019-03-12)
