@@ -14,13 +14,13 @@ Java虚拟机资源汇总
 
 ## 8. JVM 3000问
 
-> 1. 为何从Java8开始，Permanent区域被取消变成了Metaspace区域
+### 1. 为何从Java8开始，Permanent区域被取消变成了Metaspace区域
 >
 > 该文介绍了HotSpotVM的Permanent(永久代)变化为Metaspace(元数据)的原因和影响，文章是日文的，近期可能会翻译成中文
 
 + [Java8的HotSpotVM的Permanent领域替换为MetaSpace领域的理由和影响](http://equj65.net/tech/java8hotspot/)
 
-> 2. 先有Class还是先有Object
+### 2. 先有Class还是先有Object
 >
 > 源自知乎的一个问题，对于Java来说，所有类的父类都是Object类，但是Object类本身又属于类类型，即Class类型，那么问题就来了。
 
