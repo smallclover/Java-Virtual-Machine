@@ -4,7 +4,7 @@ Java虚拟机资源汇总
 
 ## 最后更新时间
 
-2019-04-05
+2019-04-09
 
 ## 注意
 
@@ -14,11 +14,17 @@ Java虚拟机资源汇总
 
 ## 8. JVM 3000问
 
-> 其一，为何从Java8开始，Permanent区域被取消变成了Metaspace区域
+> 1. 为何从Java8开始，Permanent区域被取消变成了Metaspace区域
 >
 > 该文介绍了HotSpotVM的Permanent(永久代)变化为Metaspace(元数据)的原因和影响，文章是日文的，近期可能会翻译成中文
 
 + [Java8的HotSpotVM的Permanent领域替换为MetaSpace领域的理由和影响](http://equj65.net/tech/java8hotspot/)
+
+> 2. 先有Class还是先有Object
+>
+> 源自知乎的一个问题，对于Java来说，所有类的父类都是Object类，但是Object类本身又属于类类型，即Class类型，那么问题就来了。
+
++ [先有Class还是先有Object？](https://www.zhihu.com/question/30301819)
 
 ## 9. Java 虚拟机规范
 
@@ -247,3 +253,4 @@ jvm.go的编写者是《自己动手写Java虚拟机》的作者，参照书籍�
 + 添加新的内容，JVM有关的问题(2019-02-01)
 + 添加[并发编程网]系列文章(2019-03-12)
 + 添加[你假笨]文章(2019-04-05)
++ 添加问题[先有蛋还是先有鸡](2019-04-09)
