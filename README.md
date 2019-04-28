@@ -16,31 +16,41 @@ Java虚拟机资源汇总
 
 ### 1. 为何从Java8开始，Permanent区域被取消变成了Metaspace区域
 >
+
 > 该文介绍了HotSpotVM的Permanent(永久代)变化为Metaspace(元数据)的原因和影响，文章是日文的，近期可能会翻译成中文
 
 + [Java8的HotSpotVM的Permanent领域替换为MetaSpace领域的理由和影响](http://equj65.net/tech/java8hotspot/)
 
 ### 2. 先有Class还是先有Object
 >
+
 > 源自知乎的一个问题，对于Java来说，所有类的父类都是Object类，但是Object类本身又属于类类型，即Class类型，那么问题就来了。
 
 + [先有Class还是先有Object？](https://www.zhihu.com/question/30301819)
 
 ### 3. JVM简史
 >
+
 > 源自周老师的文章，讲述了JVM虚拟机的发展史，以及各种各样的Java虚拟机
 
 + [Java虚拟机家族考](https://www.infoq.cn/article/jvm-family)
 
 ### 4. lambda表达式的实现原理
 >
+
 > 作者:让猪再飞会
+
 > 虽然Java12都出来了，但是对于lambda表达式的实现原理以及用法你或许还是一知半解，可以阅读以下这篇文章，会有收获。
 
 + [Lambda表达式](http://www.cnblogs.com/WJ5888/p/4618465.html)
 + [Lambda实现原理分析](https://www.cnblogs.com/WJ5888/p/4667086.html)
 
+### 5. Invokedynamic Java的秘密武器
+>
 
+> 来自infoq的翻译文章，主要是讲述了InvokeDynamic指令所起到的作用。
+
++ [Invokedynamic Java的秘密武器](https://www.infoq.cn/article/Invokedynamic-Javas-secret-weapon)
 
 ## 9. Java 虚拟机规范
 
@@ -273,3 +283,4 @@ jvm.go的编写者是《自己动手写Java虚拟机》的作者，参照书籍�
 + 添加[先有蛋还是先有鸡]问题(2019-04-09)
 + 添加[JVM简史]文章(2019-04-15)
 + 添加[添加lambda表达式]相关文章(2019-04-23)
++ 添加[InvokeDynamic]文章(2019-04-28)
